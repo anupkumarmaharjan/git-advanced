@@ -22,4 +22,8 @@ and David Packard although they didn't make any computers until 1966.
 - 1941 - German engineer Konrad Zuse invents and builds the first
 electronic programmable computer. It was called the Z3 and gave rise to
 the Z4 in 1950.
+- 1943 - Colossus, the first programmable digital electronic computer is
+built by the British to decode German messages.
+- 1949 - American physicists, An Wang and Way-Dong Woo create the pulse
+transfer controlling device.
 
