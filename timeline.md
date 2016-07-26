@@ -12,3 +12,8 @@ of the hardware design of all modern digital computers.
 Mid-late nineteenth century mechanical and electromechanical adding
 machines developed and widely used.
 
+## The 30's
+- 1936, May 28 - Alan Turing submits "On Computable Numbers, with an
+Application to the Entscheidungsproblem"
+- 1939, December 31 - Hewlett-Packard Company founded by William Hewlett
+and David Packard although they didn't make any computers until 1966.
