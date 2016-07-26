@@ -17,3 +17,9 @@ machines developed and widely used.
 Application to the Entscheidungsproblem"
 - 1939, December 31 - Hewlett-Packard Company founded by William Hewlett
 and David Packard although they didn't make any computers until 1966.
+
+## The 40's
+- 1941 - German engineer Konrad Zuse invents and builds the first
+electronic programmable computer. It was called the Z3 and gave rise to
+the Z4 in 1950.
+
