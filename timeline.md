@@ -1,4 +1,4 @@
-# The Computer Revolution Timeline
+# The Computer Revolution/Timeline
 
 ## Nineteenth century
 
